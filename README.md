@@ -49,7 +49,9 @@ o	View Model (use coroutines with shared/state flow)
 
   * The Data layer uses a Network Client (Retrofit) with asynchronous calls via Coroutines with flows.
 
-  * The Network client uses intercepting network connections with the "OkHttpClient" network interceptor
+  * The Network client uses intercepting network connections with the "OkHttpClient" network interceptor.
+
+  * The Unit test covers 100% of test cases using UnitJ5, and Mockk.
 
 
 
